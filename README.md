@@ -1,7 +1,7 @@
-# ALX HBnB Project
+# ALX HBnB v2 Project
 
 ```bash
-git clone https://github.com/alibaba0010/AirBnB_clone.git
+git clone https://github.com/alibaba0010/AirBnB_clone_v2.git
 
 ### Run command at the root
 ./console.py
